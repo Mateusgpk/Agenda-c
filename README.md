@@ -1,7 +1,7 @@
 # Agenda-c
 Este projeto é uma aplicação simples de linha de comando desenvolvida em linguagem C para gerenciamento de contatos. Ele permite adicionar, buscar, listar e excluir contatos, utilizando armazenamento em arquivo binário para persistência dos dados.
 
-##Estrutura
+## Estrutura
 O programa utiliza uma struct para representar cada contato:  
 
 typedef struct   
